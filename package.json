@@ -12,7 +12,7 @@
     "react-dom": "^16.13.1",
     "react-router": "^6.0.0-alpha.4",
     "react-router-dom": "^6.0.0-alpha.4",
-    "react-scripts": "3.4.1",
+    "react-scripts": "4.0.0",
     "thwack": "^0.5.0"
   },
   "scripts": {
